@@ -78,7 +78,7 @@ docs-zh:
     children:
       - title: JdbcTemplate
         url: http://spring.javaboy.org/2019/1024/spring-jdbctemplate
-  - title: 4. Aware 接口
+  - title: 7. 事务
     children:
-      - title: Aware 接口
-        url: http://spring.javaboy.org/2019/1019/spring-aware
+      - title: 事务
+        url: http://spring.javaboy.org/2019/1025/spring-tx
