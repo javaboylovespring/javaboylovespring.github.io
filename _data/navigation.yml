@@ -34,7 +34,11 @@ header:
       zh-Hans : &ZH_HANS  更多教程
     url: http://www.javaboy.org
 docs-zh:
-  - title:      Maven 教程
+  - title: 1. Spring 简介
+    url: http://spring.javaboy.org/2019/1010/spring-info
+  - title: 2. Spring 下载
+    url: http://spring.javaboy.org/2019/1011/spring-download
+  - title: 3. Ioc
     children:
       - title:  1. Maven 介绍
         url:    http://maven.javaboy.org/2019/1001/maven-info
