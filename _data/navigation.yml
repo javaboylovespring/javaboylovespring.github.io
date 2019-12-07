@@ -35,9 +35,13 @@ header:
     url: http://www.javaboy.org
 docs-zh:
   - title: 1. Spring 简介
-    url: http://spring.javaboy.org/2019/1010/spring-info
+    children:
+      - title: Spring 简介
+        url: http://spring.javaboy.org/2019/1010/spring-info
   - title: 2. Spring 下载
-    url: http://spring.javaboy.org/2019/1011/spring-download
+    children:
+      - title: Spring 下载
+        url: http://spring.javaboy.org/2019/1011/spring-download
   - title: 3. Ioc
     children:
       - title:  1. Maven 介绍
