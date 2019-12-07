@@ -44,12 +44,12 @@ docs-zh:
         url: http://spring.javaboy.org/2019/1011/spring-download
   - title: 3. Ioc
     children:
-      - title:  1. Maven 介绍
-        url:    http://maven.javaboy.org/2019/1001/maven-info
-      - title:  2. Maven 安装
-        url:    http://maven.javaboy.org/2019/1002/maven-install
-      - title:  3. Maven 配置
-        url:    http://maven.javaboy.org/2019/1003/maven-config
+      - title:  3.1 Ioc 概念
+        url:    http://spring.javaboy.org/2019/1012/ioc-info
+      - title:  3.2 Bean 的获取
+        url:    http://spring.javaboy.org/2019/1012/spring-bean
+      - title:  3.3 属性的注入
+        url:    http://spring.javaboy.org/2019/1013/spring-5-injected
       - title:  4. Maven 常用命令
         url:    http://maven.javaboy.org/2019/1004/maven
       - title:  5. IDEA 中使用 Maven
