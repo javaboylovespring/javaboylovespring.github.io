@@ -1,0 +1,56 @@
+header:
+  - titles:
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+    url: /archive.html
+
+  - titles:
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+    url: /about.html
+    
+  - titles:
+      en      : &EN       more
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  更多教程
+    url: http://www.javaboy.org
+docs-zh:
+  - title:      Maven 教程
+    children:
+      - title:  1. Maven 介绍
+        url:    http://maven.javaboy.org/2019/1001/maven-info
+      - title:  2. Maven 安装
+        url:    http://maven.javaboy.org/2019/1002/maven-install
+      - title:  3. Maven 配置
+        url:    http://maven.javaboy.org/2019/1003/maven-config
+      - title:  4. Maven 常用命令
+        url:    http://maven.javaboy.org/2019/1004/maven
+      - title:  5. IDEA 中使用 Maven
+        url:    http://maven.javaboy.org/2019/1005/maven-idea
+      - title:  6. Maven 依赖管理
+        url:    http://maven.javaboy.org/2019/1006/maven-dependency
+      - title:  7. Maven 私服
+        url:    http://maven.javaboy.org/2019/1007/maven-nexus
+      - title:  8. 聚合工程
+        url:    http://maven.javaboy.org/2019/1008/maven-pom
+      - title:  下载电子档
+        url:    http://maven.javaboy.org/2019/1009/maven-download
