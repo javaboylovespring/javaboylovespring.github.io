@@ -50,15 +50,35 @@ docs-zh:
         url:    http://spring.javaboy.org/2019/1012/spring-bean
       - title:  3.3 属性的注入
         url:    http://spring.javaboy.org/2019/1013/spring-5-injected
-      - title:  4. Maven 常用命令
-        url:    http://maven.javaboy.org/2019/1004/maven
-      - title:  5. IDEA 中使用 Maven
-        url:    http://maven.javaboy.org/2019/1005/maven-idea
-      - title:  6. Maven 依赖管理
-        url:    http://maven.javaboy.org/2019/1006/maven-dependency
-      - title:  7. Maven 私服
-        url:    http://maven.javaboy.org/2019/1007/maven-nexus
-      - title:  8. 聚合工程
-        url:    http://maven.javaboy.org/2019/1008/maven-pom
-      - title:  下载电子档
-        url:    http://maven.javaboy.org/2019/1009/maven-download
+      - title:  3.4 复杂属性的注入
+        url:    http://spring.javaboy.org/2019/1014/spring
+      - title:  3.5 Java 配置
+        url:    http://spring.javaboy.org/2019/1015/spring-java-config
+      - title:  3.6 自动化配置
+        url:    http://spring.javaboy.org/2019/1016/auto-config
+      - title:  3.7 条件注解
+        url:    http://spring.javaboy.org/2019/1017/spring-condition
+      - title:  3.8 其他
+        url:    http://spring.javaboy.org/2019/1018/spring-other
+  - title: 4. Aware 接口
+    children:
+      - title: Aware 接口
+        url: http://spring.javaboy.org/2019/1019/spring-aware
+  - title: 5. Aop
+    children:
+      - title:  5.1 Aop 简介
+        url:    http://spring.javaboy.org/2019/1020/spring-aop
+      - title:  5.2 动态代理
+        url:    http://spring.javaboy.org/2019/1021/spring-proxy
+      - title:  5.3 五种通知
+        url:    http://spring.javaboy.org/2019/1022/aop
+      - title:  5.4 XML 配置 Aop
+        url:    http://spring.javaboy.org/2019/1023/spring-xml-aop
+  - title: 6. JdbcTemplate
+    children:
+      - title: JdbcTemplate
+        url: http://spring.javaboy.org/2019/1024/spring-jdbctemplate
+  - title: 4. Aware 接口
+    children:
+      - title: Aware 接口
+        url: http://spring.javaboy.org/2019/1019/spring-aware
