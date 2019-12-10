@@ -18,4 +18,4 @@ date: 2019-10-11 22:28:52
 
 下载成功后，Spring 中的组件，大致上提供了如下功能：
 
-![](http://maven.javaboy.org/assets/images/img/2-1.png "2-1.png")
+![](http://spring.javaboy.org/assets/images/img/2-1.png "2-1.png")

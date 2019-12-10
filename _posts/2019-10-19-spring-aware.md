@@ -20,7 +20,7 @@ Aware 接口，从字面上理解就是感知捕获。单纯的一个 Bean 是�
 
 Aware 是一个空接口，有很多实现类：
 
-![](http://maven.javaboy.org/assets/images/img/4-1.png "4-1.png")
+![](http://spring.javaboy.org/assets/images/img/4-1.png "4-1.png")
 
 这些实现的接口，有一些公共特性：
 

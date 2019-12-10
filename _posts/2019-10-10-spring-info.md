@@ -14,7 +14,7 @@ date: 2019-10-10 22:28:52
 
 <!--more-->
 
-![](http://maven.javaboy.org/assets/images/img/1-1.png "1-1.png")
+![](http://spring.javaboy.org/assets/images/img/1-1.png "1-1.png")
 
 Spring 是为了解决企业级应用开发的复杂性而创建的。在 Spring 之前，有一个重量级的工具叫做 EJB，使用 Spring 可以让 Java Bean 之间进行有效的解耦，而这个操作之前只有 EJB 才能完成，EJB 过于臃肿，使用很少。Spring 不仅仅局限于服务端的开发，在测试性和松耦合方面都有很好的表现。
 

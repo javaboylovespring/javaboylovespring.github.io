@@ -39,6 +39,6 @@ public class Main {
 
 此时，如果通过 Class 去查找 Bean，会报如下错误：
 
-![](http://maven.javaboy.org/assets/images/img/3-2-1.png "3-2-1.png")
+![](http://spring.javaboy.org/assets/images/img/3-2-1.png "3-2-1.png")
 
 所以，一般建议使用 name 或者 id 去获取 Bean 的实例。
