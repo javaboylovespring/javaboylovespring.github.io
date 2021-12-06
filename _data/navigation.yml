@@ -38,47 +38,47 @@ docs-zh:
     children:
       - title: Spring 简介
         url: http://spring.javaboy.org/2019/1010/spring-info
-  - title: 2. Spring 下载
-    children:
-      - title: Spring 下载
-        url: http://spring.javaboy.org/2019/1011/spring-download
-  - title: 3. Ioc
-    children:
-      - title:  3.1 Ioc 概念
-        url:    http://spring.javaboy.org/2019/1012/ioc-info
-      - title:  3.2 Bean 的获取
-        url:    http://spring.javaboy.org/2019/1012/spring-bean
-      - title:  3.3 属性的注入
-        url:    http://spring.javaboy.org/2019/1013/spring-5-injected
-      - title:  3.4 复杂属性的注入
-        url:    http://spring.javaboy.org/2019/1014/spring
-      - title:  3.5 Java 配置
-        url:    http://spring.javaboy.org/2019/1015/spring-java-config
-      - title:  3.6 自动化配置
-        url:    http://spring.javaboy.org/2019/1016/auto-config
-      - title:  3.7 条件注解
-        url:    http://spring.javaboy.org/2019/1017/spring-condition
-      - title:  3.8 其他
-        url:    http://spring.javaboy.org/2019/1018/spring-other
-  - title: 4. Aware 接口
-    children:
-      - title: Aware 接口
-        url: http://spring.javaboy.org/2019/1019/spring-aware
-  - title: 5. Aop
-    children:
-      - title:  5.1 Aop 简介
-        url:    http://spring.javaboy.org/2019/1020/spring-aop
-      - title:  5.2 动态代理
-        url:    http://spring.javaboy.org/2019/1021/spring-proxy
-      - title:  5.3 五种通知
-        url:    http://spring.javaboy.org/2019/1022/aop
-      - title:  5.4 XML 配置 Aop
-        url:    http://spring.javaboy.org/2019/1023/spring-xml-aop
-  - title: 6. JdbcTemplate
-    children:
-      - title: JdbcTemplate
-        url: http://spring.javaboy.org/2019/1024/spring-jdbctemplate
-  - title: 7. 事务
-    children:
-      - title: 事务
-        url: http://spring.javaboy.org/2019/1025/spring-tx
+      - title: 2. Spring 下载
+          children:
+          - title: Spring 下载
+              url: http://spring.javaboy.org/2019/1011/spring-download
+      - title: 3. Ioc
+          children:
+          - title:  3.1 Ioc 概念
+              url:    http://spring.javaboy.org/2019/1012/ioc-info
+          - title:  3.2 Bean 的获取
+              url:    http://spring.javaboy.org/2019/1012/spring-bean
+          - title:  3.3 属性的注入
+              url:    http://spring.javaboy.org/2019/1013/spring-5-injected
+          - title:  3.4 复杂属性的注入
+              url:    http://spring.javaboy.org/2019/1014/spring
+          - title:  3.5 Java 配置
+              url:    http://spring.javaboy.org/2019/1015/spring-java-config
+          - title:  3.6 自动化配置
+              url:    http://spring.javaboy.org/2019/1016/auto-config
+          - title:  3.7 条件注解
+              url:    http://spring.javaboy.org/2019/1017/spring-condition
+          - title:  3.8 其他
+              url:    http://spring.javaboy.org/2019/1018/spring-other
+      - title: 4. Aware 接口
+          children:
+          - title: Aware 接口
+              url: http://spring.javaboy.org/2019/1019/spring-aware
+      - title: 5. Aop
+          children:
+          - title:  5.1 Aop 简介
+              url:    http://spring.javaboy.org/2019/1020/spring-aop
+          - title:  5.2 动态代理
+              url:    http://spring.javaboy.org/2019/1021/spring-proxy
+          - title:  5.3 五种通知
+              url:    http://spring.javaboy.org/2019/1022/aop
+          - title:  5.4 XML 配置 Aop
+              url:    http://spring.javaboy.org/2019/1023/spring-xml-aop
+      - title: 6. JdbcTemplate
+          children:
+          - title: JdbcTemplate
+              url: http://spring.javaboy.org/2019/1024/spring-jdbctemplate
+      - title: 7. 事务
+          children:
+          - title: 事务
+              url: http://spring.javaboy.org/2019/1025/spring-tx
